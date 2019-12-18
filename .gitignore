@@ -1,0 +1,15 @@
+build
+build_doc
+output
+cmake-build-debug
+.idea
+*.iml
+.sln
+*.swp
+*.local
+.DS_Store
+.gradle
+third_module
+*local*
+.tmpls
+
